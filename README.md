@@ -1,5 +1,7 @@
 # Weather-Forecast
 
+A web app that predicts real-time weather with AI and API integration.
+
 # Description
 
 Weather Forecast is a web-based platform that predicts real-time weather conditions using AI algorithms such as K-Nearest Neighbors and Gaussian Naive Bayes. The system integrates OpenWeatherMap API to provide accurate data including temperature, humidity, wind speed, and weather descriptions. Users can input a city or country and receive predictions for the next 5 hours. The project addresses climate uncertainty issues that impact agriculture, transportation, and daily decision-making. It demonstrates research skills, problem understanding, and logical reasoning through the integration of Django, REST API, and machine learning models.
