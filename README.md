@@ -29,20 +29,20 @@ Weather Forecast is a web-based platform that predicts real-time weather conditi
 # How to Run The Program
 
 1. Clone the repository
-git clone https://github.com/username/Weather.git
-cd Weather
+git clone https://github.com/username/Weather.git<br>
+cd Weather<br>
 2. Create a virtual environment
-python -m venv myvenv
+python -m venv myvenv<br>
 3. Activate the virtual environment
-Windows:
-.\myvenv\Scripts\activate
+Windows:<br>
+.\myvenv\Scripts\activate<br>
 4. Install dependencies
-pip install -r requirements.txt
-pip install django requests pandas scikit-learn (if requirements.txt is missing)
+pip install -r requirements.txt<br>
+pip install django requests pandas scikit-learn (if requirements.txt is missing)<br>
 5. Navigate to Django project folder
-cd weatherProject
+cd weatherProject<br>
 6. Run the server
-python manage.py runserver
+python manage.py runserver<br>
 7. Enter the city or country name in the Search box
 8. View current weather information on the left panel
 9. Check detailed weather info (location, time, wind, pressure, visibility, max/min temp) in the center panel
