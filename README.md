@@ -28,7 +28,7 @@ Weather Forecast is a web-based platform that predicts real-time weather conditi
 
 # How to Run The Program
 
-1. Clone the repository with git clone https://github.com/username/Weather.git
+1. Clone the repository with git clone https://github.com/evelyn576/Weather-Forecast.git
 2. Enter the project folder with cd Weather-Forecast
 3. Create a virtual environment with python -m venv myvenv
 3. Activate the virtual environment with .\myvenv\Scripts\activate
